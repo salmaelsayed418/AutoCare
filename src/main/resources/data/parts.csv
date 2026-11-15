@@ -1,0 +1,14 @@
+id,name,description,unitPrice,stockQuantity
+P001,Battery filter,Electric vehicle battery filter,25.0,9
+P002,Oil filter,Filter used to clean engine oil,15.0,20
+P003,Brake pads,Replacement brake pads,35.0,17
+P004,Brake discs,Replacement brake discs,60.0,10
+P005,Tires,Replacement vehicle tires,80.0,20
+P006,Engine oil,Engine oil for vehicle maintenance,30.0,30
+P007,Oil filter,Replacement engine oil filter,15.0,25
+P008,Car battery,Replacement vehicle battery,120.0,10
+P009,Clutch kit,Complete replacement clutch kit,250.0,5
+P010,Air conditioning filter,Filter for the air conditioning system,25.0,15
+P011,Air filter,Engine air filter,20.0,20
+P012,Spark plugs,Replacement engine spark plugs,12.0,30
+P013,Car wheels,Replacement wheels for vehicles,50.0,20

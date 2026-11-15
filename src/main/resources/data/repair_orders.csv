@@ -1,0 +1,7 @@
+id,customerId,vehicleId,mechanicId,description,status,serviceIds,partUsages
+R001,C001,V001,M001,Battery replacement,OPEN,S009,P008:1
+R002,C002,V003,M002,Engine oil and filter change,OPEN,S010,P006:1;P007:1
+R003,C003,V004,M003,Brake pads replacement,OPEN,S003,P003:2
+R004,C004,V002,M001,Tire replacement,OPEN,S005,P005:4
+R005,C001,V004,M002,Replacement brake pads,OPEN,S003,P003:3
+R006,C002,V006,M002,do a check,OPEN,S001,P001:1

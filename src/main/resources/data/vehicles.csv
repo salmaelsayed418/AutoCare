@@ -1,0 +1,7 @@
+id,brand,model,year,registrationNumber,mileage,type,batteryCapacity,fuelType
+V001,Tesla,Model 3,2023,AB-123-CD,15000,ELECTRIC,75.0,
+V002,Renault,Zoe,2022,CD-456-EF,22000,ELECTRIC,52.0,
+V003,Toyota,Yaris,2021,EF-789-GH,48000,COMBUSTION,,Petrol
+V004,Peugeot,208,2020,GH-234-IJ,62000,COMBUSTION,,Diesel
+V005,Toyota,Corolla,2024,JK-567-LM,9000,HYBRID,1.3,Petrol
+V006,BMW,M4,2020,WM23WP,100,COMBUSTION,,essence

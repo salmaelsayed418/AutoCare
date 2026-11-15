@@ -1,0 +1,13 @@
+id,name,description,price,estimatedDuration
+S001,Battery check,Battery diagnostic,60.0,30
+S002,Oil change,Replace the engine oil,80.0,45
+S003,Brake pads replacement,Replace worn brake pads,120.0,60
+S004,Brake disc replacement,Replace worn brake discs,180.0,90
+S005,Tire replacement,Replace vehicle tires,100.0,60
+S006,Tire balancing,Balance the vehicle wheels,40.0,30
+S007,Engine diagnostic,Check the engine for faults,70.0,45
+S008,Air conditioning maintenance,Check and maintain the air conditioning system,90.0,60
+S009,Battery replacement,Replace the vehicle battery,150.0,45
+S010,Engine oil and filter change,Replace engine oil and oil filter,100.0,60
+S011,Clutch replacement,Replace the vehicle clutch,500.0,240
+S012,Vehicle inspection,Perform a general vehicle inspection,50.0,30

@@ -1,0 +1,7 @@
+id,customerId,vehicleId,mechanicId,appointmentDate,description,status
+A001,C001,V001,M001,2026-11-10T09:00,Battery diagnostic,SCHEDULED
+A002,C002,V003,M002,2026-11-11T10:30,Oil change and general maintenance,SCHEDULED
+A003,C003,V004,M003,2026-11-12T14:00,Brake pads inspection,SCHEDULED
+A004,C004,V002,M001,2026-11-13T11:00,Electric vehicle inspection,SCHEDULED
+A005,C005,V005,M002,2026-11-14T15:30,Hybrid vehicle inspection,SCHEDULED
+A006,C001,V001,M001,2026-08-23T14:00,do a check,SCHEDULED
